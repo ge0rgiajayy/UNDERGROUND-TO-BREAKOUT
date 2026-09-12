@@ -54,6 +54,13 @@ Data is collected manually on a weekly basis and recorded in the project's data 
 **Baseline collection:** 12 September 2026  
 **Initial tracking period:** 12 September 2026 – 12 October 2026
 
+### Artist Profiles
+
+- [Spotify — @WAR](https://open.spotify.com/artist/31EqzztLNVAKfqgIQ3O5qU)
+- [YouTube — @WAR](https://www.youtube.com/@WARcruelwrld)
+- [TikTok — @everybodyatwar](https://www.tiktok.com/@everybodyatwar)
+- [Instagram — @everybodyatwar](https://www.instagram.com/everybodyatwar/)
+
 ## Metrics Tracked
 
 ### Audience Growth
