@@ -3,6 +3,14 @@
 
 ![Status](https://img.shields.io/badge/status-in%20progress-yellow)
 
+## Project Status
+
+🟡 **In Progress**
+
+The baseline dataset has been collected and the initial project framework has been established.
+
+Weekly data collection will continue through **12 October 2026**, after which the data will be analysed to identify potential momentum signals.
+
 ## Project Overview
 
 **Underground to Breakout** is a data analytics project exploring how an emerging UK rap artist develops momentum before reaching mainstream attention.
