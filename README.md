@@ -1,6 +1,8 @@
 # UNDERGROUND-TO-BREAKOUT
 > Tracking the data signals behind an underground UK rapper's rise to mainstream attention.
 
+![Status](https://img.shields.io/badge/status-in%20progress-yellow)
+
 ## Project Overview
 
 **Underground to Breakout** is a data analytics project exploring how an emerging UK rap artist develops momentum before reaching mainstream attention.
