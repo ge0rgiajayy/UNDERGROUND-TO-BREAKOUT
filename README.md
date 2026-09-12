@@ -11,6 +11,22 @@ The baseline dataset has been collected and the initial project framework has be
 
 Weekly data collection will continue through **12 October 2026**, after which the data will be analysed to identify potential momentum signals.
 
+## Table of Contents
+
+- [Project Overview](#project-overview)
+- [Research Question](#research-question)
+- [Why This Project?](#why-this-project)
+- [Artist](#artist)
+- [Data Sources](#data-sources)
+- [Metrics Tracked](#metrics-tracked)
+- [Methodology](#methodology)
+- [Analysis](#analysis)
+- [Visualisations](#visualisations)
+- [Key Findings](#key-findings)
+- [Limitations](#limitations)
+- [Future Work](#future-work)
+- [Tools & Skills](#tools--skills)
+
 ## Project Overview
 
 **Underground to Breakout** is a data analytics project exploring how an emerging UK rap artist develops momentum before reaching mainstream attention.
